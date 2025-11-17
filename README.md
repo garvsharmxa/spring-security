@@ -321,5 +321,3 @@ After setting up:
 8. **2FA**: Two-factor authentication
 
 See [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md) for implementation examples.
-
----
