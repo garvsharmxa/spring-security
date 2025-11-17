@@ -323,5 +323,3 @@ After setting up:
 See [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md) for implementation examples.
 
 ---
-
-**Built with ❤️ for the Spring Boot community**
