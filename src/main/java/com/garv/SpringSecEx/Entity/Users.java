@@ -15,9 +15,6 @@ public class Users {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;   // <-- Only ID, no @Version here
 
-//    @Version
-//    private Long version;   // <-- Separate version field
-
     private String username;
 
     private String password;
